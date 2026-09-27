@@ -9,8 +9,7 @@ def subtract(num1, num2):
     return num1 - num2
 
 def multiply(num1, num2):
-    # To be implemented in the multiplication branch
-    pass
+    return num1 * num2
 
 def divide(num1, num2):
     # To be implemented in the division branch
