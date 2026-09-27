@@ -13,8 +13,7 @@ def multiply(num1, num2):
     return num1 * num2
 
 def divide(num1, num2):
-    # To be implemented in the division branch
-    pass
+    return num1 / num2
 
 def main():
     # ANSI color codes for the UI
