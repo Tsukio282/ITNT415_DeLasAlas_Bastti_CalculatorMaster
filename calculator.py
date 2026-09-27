@@ -1,8 +1,8 @@
 # calculator.py
 
 def add(num1, num2):
-    # To be implemented in the addition branch
-    pass
+    """Returns the sum of two numerical values."""
+    return num1 + num2
 
 def subtract(num1, num2):
     # To be implemented in the subtraction branch
