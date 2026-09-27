@@ -13,8 +13,10 @@ def multiply(num1, num2):
     return num1 * num2
 
 def divide(num1, num2):
-    # To be implemented in the division branch
-    pass
+    """Returns the quotient, protected against division-by-zero errors."""
+    if num2 == 0:
+        return "Error: Cannot divide by zero!"
+    return num1 / num2
 
 def main():
     # ANSI color codes for the UI
