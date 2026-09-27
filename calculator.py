@@ -5,8 +5,7 @@ def add(num1, num2):
     return num1 + num2
 
 def subtract(num1, num2):
-    # To be implemented in the subtraction branch
-    pass
+    return num1 - num2
 
 def multiply(num1, num2):
     # To be implemented in the multiplication branch
