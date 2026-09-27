@@ -1,7 +1,7 @@
 # calculator.py
 
 def add(num1, num2):
-    def add(num1, num2):
+    """Returns the sum of two numerical values."""
     return num1 + num2
 
 def subtract(num1, num2):
